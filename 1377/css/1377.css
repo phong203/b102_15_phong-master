@@ -1,0 +1,43 @@
+.type-1377 {
+  margin-top: 20px;
+  color: #231f20;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 32px;
+  text-transform: none;
+}
+.search {
+  background-color: ;
+  color: white;
+}
+.search:hover {
+  background-color: ;
+  color: white;
+}
+.advanced {
+  color: ;
+  background-color: white;
+}
+.advanced:hover {
+  color: ;
+}
+.btn {
+  width:  !important;
+  text-align: center;
+}
+.drop {
+  width: ;
+}
+.btn-group {
+  width:  !important;
+}
+.fa-sort {
+  text-align: right;
+}
+.filter-option {
+  text-align: left;
+}
+.adv {
+  margin-top: 20px;
+}

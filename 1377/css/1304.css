@@ -1,0 +1,43 @@
+.type-1304 {
+  margin-top: 20px;
+  color: #231f20;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 32px;
+  text-transform: none;
+}
+.search {
+  background-color: #5b8b8b;
+  color: white;
+}
+.search:hover {
+  background-color: #004442;
+  color: white;
+}
+.advanced {
+  color: #5b8b8b;
+  background-color: white;
+}
+.advanced:hover {
+  color: #004442;
+}
+.btn {
+  width: 100% !important;
+  text-align: center;
+}
+.drop {
+  width: 100%;
+}
+.btn-group {
+  width: 100% !important;
+}
+.fa-sort {
+  text-align: right;
+}
+.filter-option {
+  text-align: left;
+}
+.adv {
+  margin-top: 20px;
+}

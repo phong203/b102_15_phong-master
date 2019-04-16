@@ -1,0 +1,71 @@
+.type-1370 {
+  margin-top: 50px;
+  color: #fff;
+}
+.type-1370 .noo-property-box-meta-content {
+  padding: 30px;
+  background: rgba(17,74,130,0.95);
+  max-width: 400px;
+  border-bottom: 5px solid #f9a11b;
+}
+.type-1370 .noo-property-box-meta-content .property-status,
+.type-1370 .noo-property-box-meta-content .noo-property-box-meta-content {
+  position: absolute;
+  top: -10px;
+  background: #1cbaff;
+  color: #fff;
+  font-size: 13px;
+  text-transform: uppercase;
+  padding: 5px 15px 2px;
+  font-weight: 600;
+}
+.type-1370 .noo-property-box-meta-content .noo-price,
+.type-1370 .noo-property-box-meta-content .noo-property-box-meta-content {
+  font-size: 28px;
+  line-height: 90px;
+  text-transform: uppercase;
+}
+.type-1370 .noo-property-box-meta-content .noo-info {
+  padding: 35px 10px 5px;
+}
+.type-1370 .noo-property-box-meta-content .noo-item-head {
+  margin-top: -25px;
+  border-bottom: 1px solid #6c7ac5;
+}
+.type-1370 .noo-property-box-meta-content .noo-info>span {
+  width: 50%;
+  float: left;
+  font-size: 16px;
+  padding-bottom: 35px;
+  line-height: 31px;
+  overflow: hidden;
+}
+.type-1370 a {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 24px;
+  text-decoration: none;
+  color: #fff;
+}
+.type-1370 a:hover {
+  transition: all 0.5s ease;
+  text-decoration: none;
+  color: #F9A11B;
+}
+.type-1370 span.location {
+  display: block;
+  color: #fff;
+  padding: 5px 0 20px;
+}
+.type-1370 property-box-meta-content {
+  background-color: rgba(17,74,130,0.95);
+}
+.type-1370 .noo-price {
+  boder-top: 1px solid #6c7ac5;
+}
+.type-1370 span.noo-primary-file-4 {
+  border-bottom: 1px solid #6c7ac5;
+}
+.type-1370 span.noo-primary-file-3 {
+  border-bottom: 1px solid #6c7ac5;
+}
